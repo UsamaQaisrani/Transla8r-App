@@ -11,5 +11,5 @@ class AppManager {
     
     static let shared = AppManager()
     
-    var languagesList : [LanguagesData]?
+    var languagesList : [Languages]?
 }
